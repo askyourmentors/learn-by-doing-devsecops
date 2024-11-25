@@ -142,7 +142,8 @@ Also known as defense-in-depth, layered security combines multiple independent d
   - Vault (logical security).
   - Cameras (monitoring).
 
-![image info](./armor.jpg){width=250}
+<img src="./armor.jpg" alt="image info" width="300" height="200">
+
 
 ## 📚 Official Resources
 
