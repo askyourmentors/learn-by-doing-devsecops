@@ -2,16 +2,6 @@
 
 Welcome to Day 1 of the DevSecOps Bootcamp! This day is all about setting the foundation by understanding the importance of security, identifying key risks, and exploring the transition from traditional DevOps to DevSecOps.
 
-## 📋 Agenda for Day 1
-
-1. Importance of Security
-2. Top 10 Web Application Security Risks
-3. How to Secure Systems Against Attacks
-4. Definition and Importance of DevSecOps
-5. Traditional DevOps vs DevSecOps
-6. Roles & Responsibilities in DevSecOps
-7. How Layered Security Works
-
 ### 1️⃣ Importance of Security
 
 #### Why It Matters
@@ -21,19 +11,11 @@ Security is no longer an optional enhancement—it’s a core business enabler. 
 - **Financial Losses**: The average cost of a data breach in 2023 was $4.45 million (IBM Report).
 - **Compliance Risks**: Non-compliance with GDPR, HIPAA, or PCI DSS can lead to heavy fines.
 
-**Interactive Insight:**
-
-- Ask students:
-  - Have you ever seen a security warning while using a website?
-  - What would make you trust a platform after a data breach?
-
-**Dynamic Activity:**
-
-- Discuss live case studies like Equifax or SolarWinds to emphasize real-world impacts.
 
 **Suggested Visual:**
 
-- A timeline infographic of major data breaches and their consequences.
+![image info](./.svg)
+
 
 ### 2️⃣ Top 10 Web Application Security Risks
 
