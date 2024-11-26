@@ -38,7 +38,7 @@ Web applications are the front door to your organization, and attackers actively
 
 **Risk Levels:**
 
-<img src="./riskradar.png" alt="image info" width="500" height="400">
+<img src="./riskradar.png" alt="image info" width="500" height="300">
 
 ### 3️⃣ How to Secure Systems Against Attacks
 
@@ -54,7 +54,7 @@ Web applications are the front door to your organization, and attackers actively
 
 **Securing configurations using a layered approach:**
 
-<img src="./layer.jpg" alt="image info" width="700" height="400">
+<img src="./layer.jpg" alt="image info" width="900" height="400">
 
 ### 4️⃣ Definition and Importance of DevSecOps
 
@@ -69,7 +69,7 @@ DevSecOps embeds security practices into the DevOps pipeline, ensuring vulnerabi
 
 **DevSecOps Flow:**
 
-<img src="./devsecops.png" alt="image info" width="850" height="300">
+<img src="./devsecops.png" alt="image info" width="600" height="300">
 
 ### 5️⃣ Traditional DevOps vs DevSecOps
 
