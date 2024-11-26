@@ -39,19 +39,10 @@ Web applications are the front door to your organization, and attackers actively
 | 10   | Server-Side Request Forgery (SSRF)      | Attackers manipulate server-side requests to access internal resources. |
 
 
-**Example for SQL Injection:**
 
+**Risk Levels:**
 
-Above, the SQL command deletes a table due to lack of input sanitization.
-
-**Dynamic Activity:**
-
-- Ask Students to Identify Flaws: Present a piece of vulnerable code and ask them to pinpoint the issue.
-- Tool Demo: Show how a tool like Burp Suite identifies vulnerabilities.
-
-**Suggested Visual:**
-
-- A risk radar diagram categorizing risks by likelihood and impact.
+<img src="./riskradar.png" alt="image info" width="600" height="500">
 
 ### 3️⃣ How to Secure Systems Against Attacks
 
