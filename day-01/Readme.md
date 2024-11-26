@@ -54,7 +54,7 @@ Web applications are the front door to your organization, and attackers actively
 
 **Securing configurations using a layered approach:**
 
-<img src="./layer.jpg" alt="image info" width="500" height="600">
+<img src="./layer.jpg" alt="image info" width="700" height="400">
 
 ### 4️⃣ Definition and Importance of DevSecOps
 
