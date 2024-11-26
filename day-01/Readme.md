@@ -102,7 +102,7 @@ DevSecOps embeds security practices into the DevOps pipeline, ensuring vulnerabi
 
 **DevSecOps is a Shared Responsibility:**
 
-<img src="./sec.png" alt="image info" width="400" height="500">
+<img src="./sec.png" alt="image info" width="500" height="300">
 
 ### 7️⃣ How Layered Security Works
 
