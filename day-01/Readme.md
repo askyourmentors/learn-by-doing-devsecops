@@ -42,7 +42,7 @@ Web applications are the front door to your organization, and attackers actively
 
 **Risk Levels:**
 
-<img src="./riskradar.png" alt="image info" width="600" height="500">
+<img src="./riskradar.png" alt="image info" width="500" height="500">
 
 ### 3️⃣ How to Secure Systems Against Attacks
 
