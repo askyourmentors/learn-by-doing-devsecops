@@ -11,11 +11,9 @@ Security is no longer an optional enhancement—it’s a core business enabler. 
 - **Financial Losses**: The average cost of a data breach in 2023 was $4.45 million (IBM Report).
 - **Compliance Risks**: Non-compliance with GDPR, HIPAA, or PCI DSS can lead to heavy fines.
 
-
 **Data Breaches in Recent Years:**
 
 <img src="./databreach.svg" alt="image info" width="600" height="500">
-
 
 ### 2️⃣ Top 10 Web Application Security Risks
 
@@ -38,8 +36,6 @@ Web applications are the front door to your organization, and attackers actively
 | 9    | Security Logging and Monitoring Failures | Inadequate logging and monitoring allow undetected breaches.           |
 | 10   | Server-Side Request Forgery (SSRF)      | Attackers manipulate server-side requests to access internal resources. |
 
-
-
 **Risk Levels:**
 
 <img src="./riskradar.png" alt="image info" width="500" height="400">
@@ -52,17 +48,13 @@ Web applications are the front door to your organization, and attackers actively
 - **Least Privilege**: Limit access to only what’s necessary.
 - **Patch Regularly**: Apply security updates immediately.
 
-**Dynamic Insight:**
-
-- Share a recent security vulnerability in popular software (e.g., Log4Shell) and demonstrate how regular patching could have mitigated it.
-
 **Real-World Example:**
 
 - Amazon secures its API endpoints by using token-based authentication and rate limiting to prevent abuse.
 
-**Suggested Visual:**
+**Securing configurations using a layered approach:**
 
-- Diagram: Secure configurations using a layered approach: input sanitization, firewalls, and encryption.
+<img src="./layer.jpg" alt="image info" width="500" height="600">
 
 ### 4️⃣ Definition and Importance of DevSecOps
 
@@ -145,7 +137,7 @@ Also known as defense-in-depth, layered security combines multiple independent d
 <img src="./armor.jpg" alt="image info" width="300" height="200">
 
 
-## 📚 Official Resources
+## 📚 Important Resources
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [CNCF DevSecOps Landscape](https://landscape.cncf.io/)
