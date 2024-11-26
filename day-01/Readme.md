@@ -86,7 +86,7 @@ DevSecOps embeds security practices into the DevOps pipeline, ensuring vulnerabi
 
 **DevOps vs DevSecOps workflows:**
 
-<img src="./devsec.png" alt="image info" width="400" height="500">
+<img src="./devsec.png" alt="image info" width="600" height="300">
 
 ### 6️⃣ Roles & Responsibilities in DevSecOps
 
@@ -123,7 +123,7 @@ Also known as defense-in-depth, layered security combines multiple independent d
   - Vault (logical security).
   - Cameras (monitoring).
 
-<img src="./layered.png" alt="image info" width="300" height="200">
+<img src="./layered.png" alt="image info" width="270" height="200">
 
 
 ## 📚 Important Resources
