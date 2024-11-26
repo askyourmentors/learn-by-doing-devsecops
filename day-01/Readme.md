@@ -12,7 +12,7 @@ Security is no longer an optional enhancement—it’s a core business enabler. 
 - **Compliance Risks**: Non-compliance with GDPR, HIPAA, or PCI DSS can lead to heavy fines.
 
 
-**Suggested Visual:**
+**Data Breaches in Recent Years:**
 
 <img src="./databreach.svg" alt="image info" width="600" height="500">
 
@@ -23,12 +23,21 @@ Security is no longer an optional enhancement—it’s a core business enabler. 
 
 Web applications are the front door to your organization, and attackers actively exploit known vulnerabilities. The OWASP Top 10 offers a comprehensive guide to common risks:
 
-| Risk                     | Dynamic Insight                                      |
-|--------------------------|------------------------------------------------------|
-| Injection (SQL, NoSQL)   | Attackers inject malicious commands (e.g., SQL).     |
-| Broken Authentication    | Poor mechanisms allow unauthorized access.           |
-| Sensitive Data Exposure  | Unencrypted data leaks during transit or storage.    |
-| Cross-Site Scripting (XSS)| Injected scripts execute malicious actions in browsers.|
+# OWASP Top 10 Security Risks
+
+| Rank | Risk Name                               | Insight                                                                 |
+|------|-----------------------------------------|-------------------------------------------------------------------------|
+| 1    | Broken Access Control                   | Attackers exploit flaws to access unauthorized resources.               |
+| 2    | Cryptographic Failures                  | Sensitive data exposure due to weak or missing encryption.              |
+| 3    | Injection                               | Malicious data sent to an interpreter, leading to unintended execution. |
+| 4    | Insecure Design                         | Flaws in design that lead to exploitable vulnerabilities.               |
+| 5    | Security Misconfiguration               | Incorrectly configured security settings allow unauthorized actions.    |
+| 6    | Vulnerable and Outdated Components      | Use of components with known vulnerabilities.                           |
+| 7    | Identification and Authentication Failures | Weak authentication mechanisms allow unauthorized access.             |
+| 8    | Software and Data Integrity Failures    | Code and data tampering due to lack of integrity checks.                |
+| 9    | Security Logging and Monitoring Failures | Inadequate logging and monitoring allow undetected breaches.           |
+| 10   | Server-Side Request Forgery (SSRF)      | Attackers manipulate server-side requests to access internal resources. |
+
 
 **Example for SQL Injection:**
 
