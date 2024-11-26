@@ -69,7 +69,7 @@ DevSecOps embeds security practices into the DevOps pipeline, ensuring vulnerabi
 
 **DevSecOps Flow:**
 
-<img src="./devsecops.png" alt="image info" width="600" height="500">
+<img src="./devsecops.png" alt="image info" width="850" height="300">
 
 ### 5️⃣ Traditional DevOps vs DevSecOps
 
@@ -79,17 +79,14 @@ DevSecOps embeds security practices into the DevOps pipeline, ensuring vulnerabi
 | Security Stage       | End of the pipeline         | Integrated at every stage           |
 | Responsibility       | Security team               | Shared responsibility (all teams)   |
 
-**Dynamic Insight:**
-
-- Discuss how early security reduces mean time to recovery (MTTR) in production.
 
 **Real-World Use Case:**
 
 - Netflix adopted DevSecOps with automated vulnerability scanning in its CI/CD pipeline, reducing deployment delays.
 
-**Suggested Visual:**
+**DevOps vs DevSecOps workflows:**
 
-- Pipeline Comparison: A diagram showing traditional DevOps vs DevSecOps workflows.
+<img src="./devsec.png" alt="image info" width="400" height="500">
 
 ### 6️⃣ Roles & Responsibilities in DevSecOps
 
@@ -103,13 +100,9 @@ DevSecOps embeds security practices into the DevOps pipeline, ensuring vulnerabi
 - **Security Teams**:
   - Define and enforce security policies.
 
-**Dynamic Activity:**
+**DevSecOps is a Shared Responsibility:**
 
-- Assign students a mock scenario (e.g., handling a data breach). Ask them to discuss how each role contributes to resolving the issue.
-
-**Suggested Visual:**
-
-- Venn Diagram: Overlapping responsibilities between developers, ops, and security teams.
+<img src="./sec.png" alt="image info" width="400" height="500">
 
 ### 7️⃣ How Layered Security Works
 
@@ -125,12 +118,12 @@ Also known as defense-in-depth, layered security combines multiple independent d
 
 **Dynamic Insight:**
 
-- Discuss the analogy of a bank’s security system:
+- Think of a bank’s security system:
   - Guards (physical).
   - Vault (logical security).
   - Cameras (monitoring).
 
-<img src="./armor.jpg" alt="image info" width="300" height="200">
+<img src="./layered.png" alt="image info" width="300" height="200">
 
 
 ## 📚 Important Resources
