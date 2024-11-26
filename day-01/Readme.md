@@ -14,7 +14,7 @@ Security is no longer an optional enhancement—it’s a core business enabler. 
 
 **Suggested Visual:**
 
-<img src="./databreach.svg" alt="image info" width="300" height="200">
+<img src="./databreach.svg" alt="image info" width="600" height="500">
 
 
 ### 2️⃣ Top 10 Web Application Security Risks
