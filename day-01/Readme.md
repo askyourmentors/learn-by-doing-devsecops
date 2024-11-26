@@ -67,13 +67,9 @@ DevSecOps embeds security practices into the DevOps pipeline, ensuring vulnerabi
 - **Cost-Efficient Fixes**: Fixing issues during development is 6x cheaper than in production.
 - **Team Collaboration**: Developers, operations, and security teams work in unison.
 
-**Dynamic Insight:**
+**DevSecOps Flow:**
 
-- Discuss the cultural shift required to adopt DevSecOps. Encourage students to share experiences with "security late in the pipeline."
-
-**Suggested Visual:**
-
-- DevSecOps Infinity Loop: Security intertwined with CI/CD processes.
+<img src="./devsecops.png" alt="image info" width="600" height="500">
 
 ### 5️⃣ Traditional DevOps vs DevSecOps
 
