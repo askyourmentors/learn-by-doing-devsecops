@@ -258,3 +258,141 @@ This Vagrantfile:
 Feel free to modify the `VM_COUNT`, memory, or CPU settings to suit your needs.
 
 ---
+
+---
+=================================================================
+# Here's a concise list of the most commonly used Vagrant commands
+
+```markdown
+# Commonly Used Vagrant Commands
+
+Below is a list of frequently used Vagrant commands and their purposes. These commands help you manage your Vagrant environment effectively.
+
+---
+
+## Basic Commands
+
+### 1. Initialize a Vagrant Environment
+```bash
+vagrant init
+```
+- Creates a `Vagrantfile` in the current directory.
+
+### 2. Start the Vagrant Environment
+```bash
+vagrant up
+```
+- Provisions and starts all defined VMs.
+
+### 3. SSH into a VM
+```bash
+vagrant ssh <vm_name>
+```
+- Access a running VM via SSH. Replace `<vm_name>` with the name of your VM (optional if there's only one VM).
+
+---
+
+## Managing Vagrant Machines
+
+### 4. Check the Status of VMs
+```bash
+vagrant status
+```
+- Shows the current state of all Vagrant-managed VMs.
+
+### 5. Suspend a VM
+```bash
+vagrant suspend
+```
+- Pauses a VM while preserving its state.
+
+### 6. Resume a Suspended VM
+```bash
+vagrant resume
+```
+- Resumes a paused VM.
+
+### 7. Reload a VM
+```bash
+vagrant reload
+```
+- Restarts the VM and applies changes from the `Vagrantfile`.
+
+### 8. Destroy a VM
+```bash
+vagrant destroy
+```
+- Deletes a VM and removes its files.
+
+---
+
+## Maintenance and Troubleshooting
+
+### 9. Update the Base Box
+```bash
+vagrant box update
+```
+- Updates the base box to the latest version.
+
+### 10. Remove a Base Box
+```bash
+vagrant box remove <box_name>
+```
+- Deletes a box from your system.
+
+### 11. List Installed Boxes
+```bash
+vagrant box list
+```
+- Displays all boxes installed on your system.
+
+### 12. Clean Up Unused Files
+```bash
+vagrant global-status --prune
+```
+- Cleans up stale VM entries.
+
+---
+
+## Advanced Commands
+
+### 13. Run a Provisioning Script
+```bash
+vagrant provision
+```
+- Executes provisioning scripts without restarting the VM.
+
+### 14. Connect to VirtualBox GUI
+```bash
+vagrant up --provider=virtualbox
+```
+- Starts the VM in VirtualBox and allows GUI access if enabled.
+
+### 15. Force Stop a VM
+```bash
+vagrant halt --force
+```
+- Shuts down a VM immediately.
+
+---
+
+## Debugging
+
+### 16. Debugging Mode
+```bash
+vagrant up --debug
+```
+- Starts the VM in debug mode for troubleshooting.
+
+### 17. View Logs
+```bash
+vagrant ssh -c "cat /var/log/vagrant.log"
+```
+- Displays logs within the VM (if configured).
+
+---
+
+## Summary
+These commands cover the essential operations for working with Vagrant. For more advanced usage, refer to the [Vagrant Documentation](https://www.vagrantup.com/docs).
+
+---
